@@ -1,4 +1,11 @@
-SocketCluster Sample App
-======
+## Getting Started
 
-This is a sample SocketCluster app.
+```bash
+$ git clone https://github.com/diedsmiling/chatty_api.git
+$ cd reactchatty_api
+$ npm install                   # Install project dependencies
+$ npm start                     # Compile and launch
+```
+No socketcluster runs on `http://localhost:8000`
+
+Follow instructons from https://github.com/diedsmiling/chatty
