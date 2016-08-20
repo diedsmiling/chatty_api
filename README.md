@@ -2,7 +2,7 @@
 
 ```bash
 $ git clone https://github.com/diedsmiling/chatty_api.git
-$ cd reactchatty_api
+$ cd chatty_api
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
