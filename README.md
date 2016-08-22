@@ -4,7 +4,7 @@
 $ git clone https://github.com/diedsmiling/chatty_api.git
 $ cd chatty_api
 $ npm install                   # Install project dependencies
-$ npm start                     # Compile and launch
+$ node server.js                     # Compile and launch
 ```
 No socketcluster runs on `http://localhost:8000`
 
