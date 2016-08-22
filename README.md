@@ -8,4 +8,4 @@ $ node server.js                     # Compile and launch
 ```
 No socketcluster runs on `http://localhost:8000`
 
-Follow instructons from https://github.com/diedsmiling/chatty
+Follow instructions from https://github.com/diedsmiling/chatty
